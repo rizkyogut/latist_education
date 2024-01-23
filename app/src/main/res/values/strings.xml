@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">latist_education</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_account_please_register">Don\'t have Account? Please Register</string>
+    <string name="name">Name</string>
+</resources>
